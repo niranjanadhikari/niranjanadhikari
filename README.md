@@ -1,7 +1,7 @@
 # Namaste 🙏, 
 ###I'm a UX Designer 
 
-![Facebook profile](http://i.imgur.com/P3YfQoD.png)(https://www.facebook.com/mystic.roz123)
+[![Facebook profile](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/mystic.roz123)
 
 
 
