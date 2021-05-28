@@ -17,5 +17,6 @@
 
 Tools I use
 
-![ReactJS](https://i.imgur.com/Ztdzcwi.png) ![StyledComponents](https://i.imgur.com/thb3JKF.png) ![css3](https://i.imgur.com/kYK9NGu.png)
+![ReactJS]() ![StyledComponents](https://i.imgur.com/thb3JKF.png) ![css3](https://i.imgur.com/kYK9NGu.png)
 
+<img src="https://i.imgur.com/Ztdzcwi.png" width="80px" />
