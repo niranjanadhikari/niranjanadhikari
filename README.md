@@ -1,5 +1,5 @@
 # Namaste 🙏
-#### I'm a UX Designer from Nepal [<img src="https://avatars.githubusercontent.com/u/1197743?s=200&v=4" width="30px" height="30px" style="object-fit:contain" />](https://www.behance.net/niranjanadhikari)
+#### I'm a UX Designer from Nepal [<img src="https://avatars.githubusercontent.com/u/1197743?s=200&v=4" width="24px" height="24px" style="object-fit:contain;margin-left:10px" />](https://www.behance.net/niranjanadhikari)
 
 
 - 🔭 I’m currently working on [Optimum Futurist](https://optimumfuturist.com/)
@@ -9,6 +9,6 @@
 - 😄 Want to check my designs? : [Behance Profile](https://www.behance.net/niranjanadhikari)
 - ⚡ Fun fact: The Mona Lisa has no eyebrows. :D I googled it !!! 
 
-[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanadhikari&hide=issues,contribs&?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanadhikari&hide=issues,contribs&?count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
