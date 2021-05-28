@@ -1,16 +1,8 @@
 # Namaste 🙏, 
 ###I'm a UX Designer 
 
+![Facebook profile](http://i.imgur.com/P3YfQoD.png)(https://www.facebook.com/mystic.roz123)
 
-   
-    [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-    [2.1]: https://avatars.githubusercontent.com/u/1197743?s=200&v=4 (Behance icon with padding)
-    
-     <!-- links to your social media accounts -->
-
- 
-    [1]: https://www.facebook.com/mystic.roz123
-    [2]: https://www.behance.net/niranjanadhikari
 
 
 
