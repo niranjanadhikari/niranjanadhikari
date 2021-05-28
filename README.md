@@ -2,7 +2,7 @@
 #### I'm a UX Designer from Nepal [<img src="https://avatars.githubusercontent.com/u/1197743?s=200&v=4" width="30px" height="30px" style="object-fit:contain" />](https://www.behance.net/niranjanadhikari)
 
 
-- 🔭 I’m currently working on Optimum Futurist [https://optimumfuturist.com/]
+- 🔭 I’m currently working on [Optimum Futurist](https://optimumfuturist.com/)
 - 🌱 I’m currently learning React, Styled-components
 - 💬 Ask me about UI/UX Design
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/niranjanadhikari2053/ )
